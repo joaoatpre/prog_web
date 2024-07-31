@@ -1,0 +1,91 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+  background-color: #f0f0f0;
+}
+
+.container {
+  max-width: 95%;
+  margin: auto;
+  padding: 20px;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 350px;
+  padding: 30px;
+  gap: 20px;
+  border-radius: 15px;
+  background-color: #ffffff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s ease;
+}
+
+.container-form:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.form-title {
+  width: 100%;
+  font-size: 35px;
+  font-weight: bolder;
+  color: #333333;
+  text-align: center;
+}
+
+.form-name,
+.form-username,
+.form-password,
+.form-cpf,
+.form-dateofbirth,
+.form-email {
+  height: 35px;
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #cccccc;
+  outline: none;
+  font-size: 16px;
+  transition: border-color 0.3s;
+}
+
+.form-name:focus,
+.form-username:focus,
+.form-password:focus,
+.form-cpf:focus,
+.form-dateofbirth:focus,
+.form-email:focus {
+  border-color: #4cf043;
+}
+
+.form-submit {
+  height: 40px;
+  width: 50%;
+  font-weight: bold;
+  font-size: 18px;
+  outline: none;
+  border-radius: 5px;
+  border: none;
+  background-color: #4cf043;
+  color: white;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.form-submit:hover {
+  background-color: #46c63f;
+  transform: scale(1.05);
+}

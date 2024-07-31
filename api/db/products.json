@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Notebook Gamer Acer Nitro V15",
+    "image": "https://images.kabum.com.br/produtos/fotos/564916/notebook-gamer-acer-nitro-v15-intel-core-i5-13420h-8gb-ram-geforce-rtx-3050-ssd-512gb-15-6-fhd-ips-144hz-windows-11-preto-anv15-51-58az_1715197002_gg.jpg",
+    "price": 5777.77,
+    "offPrice": 4999.99,
+    "category": "Notebooks",
+    "delivery": "8 dias uteis",
+    "description": "Intel Core i5-13420H, 8GB RAM, GeForce RTX 3050, SSD 512GB, 15.6 FHD IPS 144Hz, Windows 11, Preto - ANV15-51-58AZ"
+  },
+  {
+    "id": 2,
+    "name": "Console Playstation 5 Sony",
+    "image": "https://images.kabum.com.br/produtos/fotos/238671/console-sony-playstation-5_1634132554_gg.jpg",
+    "price": 3999.9,
+    "offPrice": 3599.9,
+    "category": "Consoles",
+    "delivery": "12 dias uteis",
+    "description": "SSD 825GB, Controle sem fio DualSense, Com Mídia Física, Branco - 1214A"
+  },
+  {
+    "id": 3,
+    "name": "HyperX Alloy Origins Core",
+    "image": "https://m.media-amazon.com/images/I/71UcIsK+DOL._AC_SX679_.jpg",
+    "price": 500.9,
+    "offPrice": 479.0,
+    "category": "Teclados",
+    "delivery": "21 dias uteis",
+    "description": "Mechanical Gaming Keyboard - HX Blue (BR Layout)"
+  },
+  {
+    "id": 4,
+    "name": "Mouse Gamer Sem Fio Logitech G703",
+    "image": "https://m.media-amazon.com/images/I/61-jAartdjL._AC_SX679_.jpg",
+    "price": 390.04,
+    "offPrice": 320.2,
+    "category": "Mouses",
+    "delivery": "4 dias uteis",
+    "description": "LIGHTSPEED com RGB LIGHTSYNC, 6 Botões Programáveis, Sensor HERO 25K e Bateria Recarregável - Compatível com POWERPLAY"
+  },
+  {
+    "id": 5,
+    "name": "Headset Gamer Redragon",
+    "image": "https://m.media-amazon.com/images/I/51Ih4Aq8FzL._AC_SX679_.jpg",
+    "price": 159.77,
+    "offPrice": 135.99,
+    "category": "Headsets",
+    "delivery": "5 dias uteis",
+    "description": "Mento Preto RGB H270-RGB"
+  },
+  {
+    "id": 6,
+    "name": "Samsung C34G55TWWL Odyssey 34",
+    "image": "https://m.media-amazon.com/images/I/81wfdDTIjHS._AC_SX679_.jpg",
+    "price": 3099.0,
+    "offPrice": 2900.99,
+    "category": "Monitores",
+    "delivery": "3 dias uteis",
+    "description": "Monitor Gamer Curvo, WQHD, 165Hz, 1ms, tela ultrawide, HDMI, Display Port, Freesync Premium, preto, série G5"
+  },
+  {
+    "id": 7,
+    "name": "Console Nintendo Switch",
+    "image": "https://images.kabum.com.br/produtos/fotos/385192/console-nintendo-switch-oled-com-joy-con-branco-hbgskaaa2_1663593573_gg.jpg",
+    "price": 2420.95,
+    "offPrice": 2080.21,
+    "category": "Consoles",
+    "delivery": "2 dias uteis",
+    "description": "Oled com Joy-Con, Branco - HBGSKAAA2"
+  },
+  {
+    "id": 8,
+    "name": "Monitor Gamer Curvo KBM",
+    "image": "https://images.kabum.com.br/produtos/fotos/471917/monitor-gamer-kbm-gaming-mg700-27-led-full-hd-240hz-1ms-hdmi-e-displayport-96-srgb-adaptive-sync-ajuste-de-altura-kgmg70027pt_1704462104_gg.jpg",
+    "price": 1322.77,
+    "offPrice": 1099.99,
+    "category": "Monitores",
+    "delivery": "8 dias uteis",
+    "description": "MG700 27, 240hz, Full HD, 1ms, DisplayPort e HDMI, 96% SRGB, Adaptive Sync, Ajuste De Altura - KGMG70027PT"
+  },
+  {
+    "id": 9,
+    "name": "Notebook Acer Intel Core",
+    "image": "https://images.kabum.com.br/produtos/fotos/537359/notebook-acer-intel-core-i5-12450h-8gb-ram-ssd-256gb-15-6-full-hd-linux-cinza-a515-57-51w5_1713968348_gg.jpg",
+    "price": 3110.1,
+    "offPrice": 2499.99,
+    "category": "Notebooks",
+    "delivery": "5 dias uteis",
+    "description": "I5-12450H, 8GB RAM, SSD 256GB, 15.6 Full HD, Linux, Cinza - A515-57-51W5"
+  },
+  {
+    "id": 10,
+    "name": "Headset Gamer Redragon Zeus X",
+    "image": "https://images.kabum.com.br/produtos/fotos/227818/headset-gamer-redragon-zeus-chroma-mk-ii-rgb-surround-7-1-usb-drivers-53mm-preto-vermelho-h510-rgb_1631555309_gg.jpg",
+    "price": 352.93,
+    "offPrice": 249.9,
+    "category": "Headsets",
+    "delivery": "2 dias uteis",
+    "description": "Chroma Mk.II, RGB, Surround 7.1, USB, Drivers 53MM, Preto/Vermelho - H510-RGB"
+  }
+]

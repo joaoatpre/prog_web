@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/index.css" />
+    <script type="module" src="js/main.js" defer></script>
+    <title>Gamers Hub</title>
+  </head>
+  <body>
+    <div class="container">
+      <nav class="container-navbar">
+        <div class="navbar-logo">
+          <a href="/">Gamers Hub</a>
+          <a href="/register.html" id="goto">Registrar</a>
+          <a href="/login.html" id="goto">Logar</a>
+          <a href="/contact.html" id="goto">Contato</a>
+        </div>
+        <ul class="navbar-menu">
+          <li>
+            <input
+              type="text"
+              id="searchInput"
+              placeholder="&#128269; Pesquisar..."
+              class="search"
+            />
+          </li>
+          <li>
+            <a href="#" id="cartLink"> Meu Carrinho </a>
+          </li>
+        </ul>
+      </nav>
+
+      <section class="container-hero">
+        <button class="hero-btn-prev" aria-label="Imagem anterior">
+          &#10094;
+        </button>
+        <button class="hero-btn-next" aria-label="Próxima imagem">
+          &#10095;
+        </button>
+        <div class="slider-dots">
+          <!-- Dots animation here -->
+        </div>
+        <div class="hero-slider">
+          <div class="slider-content">
+            <!-- Hero slides here -->
+          </div>
+        </div>
+      </section>
+
+      <div class="container-content">
+        <section class="category-list">
+          <!-- Categories here -->
+        </section>
+
+        <section class="product-list">
+          <!-- Products here -->
+        </section>
+      </div>
+
+      <div class="cart-popup" id="cartPopup">
+        <div class="cart-popup-content">
+          <span class="close-popup" id="closePopup">&times;</span>
+          <h3>Meu Carrinho</h3>
+          <br />
+          <ul class="cart-items-popup" id="cartItemsPopup">
+            <!-- Cart items -->
+          </ul>
+          <button class="cart-items-checkout-btn" id="checkoutBtn">
+            Finalizar Compra
+          </button>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
